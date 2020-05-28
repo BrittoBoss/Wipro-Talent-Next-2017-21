@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Printreversebyskipping2numbers
+{
+	public static void main(string[] args)
+	{
+		int i;
+		for(i=100;i>=1;i=i-3)
+		{
+			System.out.print(i+"");
+		}
+	}
+}
